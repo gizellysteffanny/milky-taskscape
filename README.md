@@ -1,10 +1,10 @@
 # 🥛 Milky Taskscape
 
-Bem-vindo ao projeto Milky Taskscape, onde suas tarefas se tornam uma paisagem organizada. O nome "MilkyTaskscape" combina "Milky" (inspirado na minha gatinha, Milk) e "Taskscape", sugerindo um cenário de tarefas que você pode gerenciar e controlar.
+Bem-vindo ao projeto Milky Taskscape, onde suas tarefas se tornam uma paisagem organizada. **MilkyTaskscape** é uma combinação de "Milky" (inspirado no nome da minha gatinha, Milk) e "Taskscape", criando um nome que sugere um ambiente de tarefas organizadas. O aplicativo é projetado para dispositivos móveis e desktops, com um design simples e fácil de usar.
 
 ## 🏛 Arquitetura
 
-Milky Taskscape é um ecossistema de desenvolvimento projetado para simplificar a gestão de tarefas e autenticação. **Milky Taskscape** é uma combinação de "Milky" (inspirado no nome da minha gatinha, Milk) e "Taskscape", criando um nome que sugere um ambiente de tarefas organizadas. O aplicativo é projetado para dispositivos móveis e desktops, com um design simples e fácil de usar.
+Milky Taskscape é um ecossistema de desenvolvimento projetado para simplificar a gestão de tarefas e autenticação. Ele é composto por vários microserviços e aplicativos frontend para oferecer uma experiência eficiente e agradável.
 
 - **🔐 Microserviço de Autenticação (milky-auth-service)**
    - [Repositório](https://github.com/gizellysteffanny/milky-auth-service): Gerenciamento de autenticação de usuários.
