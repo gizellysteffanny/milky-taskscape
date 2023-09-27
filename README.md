@@ -6,17 +6,17 @@ Bem-vindo ao projeto Milky Taskscape, onde suas tarefas se tornam uma paisagem o
 
 Milky Taskscape é um ecossistema de desenvolvimento projetado para simplificar a gestão de tarefas e autenticação. Ele é composto por vários microserviços e aplicativos frontend para oferecer uma experiência eficiente e agradável.
 
-- **🔐 Microserviço de Autenticação (milky-auth-service)**
-   - [Repositório](https://github.com/gizellysteffanny/milky-auth-service): Gerenciamento de autenticação de usuários.
+- **🔐 Microserviço de Autenticação**
+   - [(milky-auth-service)](https://github.com/gizellysteffanny/milky-auth-service) : Gerenciamento de autenticação de usuários.
 
-- **📝 Microserviço de Gerenciamento de Tarefas (milky-task-service)**
-   - [Repositório](https://github.com/gizellysteffanny/milky-task-service): Gestão de tarefas.
+- **📝 Microserviço de Gerenciamento de Tarefas**
+   - [(milky-task-service)](https://github.com/gizellysteffanny/milky-task-service) : Gestão de tarefas.
 
-- **🌐 Aplicação Frontend (Web) (milky-taskscape-web)**
-   - [Repositório](https://github.com/gizellysteffanny/milky-taskscape-web): Interface web para acesso às funcionalidades.
+- **🌐 Aplicação Frontend (Web)**
+   - [(milky-taskscape-web)](https://github.com/gizellysteffanny/milky-taskscape-web) : Interface web para acesso às funcionalidades.
 
-- **📱 Aplicação Frontend (Mobile) (milky-taskscape-mobile)**
-   - [Repositório](https://github.com/gizellysteffanny/milky-taskscape-mobile): Versão mobile do aplicativo.
+- **📱 Aplicação Frontend (Mobile)**
+   - [(milky-taskscape-mobile)](https://github.com/gizellysteffanny/milky-taskscape-mobile) : Versão mobile do aplicativo.
 
 
 ## 🤝 Contribuição
